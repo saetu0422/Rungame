@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Perfect Line
+  - Good Line
+  - Bad Line
+  - Miss Line
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3540552113
+    locked: 0
+  - name: Judge Lines
+    uniqueID: 2301571251
+    locked: 0
+  - name: Notes
+    uniqueID: 3588623375
+    locked: 0
+  - name: Judgement
+    uniqueID: 883758655
+    locked: 0
+  - name: Effect
+    uniqueID: 1303305901
+    locked: 0

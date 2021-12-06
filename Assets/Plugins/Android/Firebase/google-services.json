@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "167851701881",
+    "firebase_url": "https://unity-rhytm-game-default-rtdb.firebaseio.com",
+    "project_id": "unity-rhytm-game",
+    "storage_bucket": "unity-rhytm-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167851701881:android:22c0027946ec5b46aa86a8",
+        "android_client_info": {
+          "package_name": "com.HY.RunningGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167851701881-q40um1nklqupv79mfjjrtk8c2euk8r7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAifCHJv1ZoZaQEzW_K4c_3mEYphH_Pxc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167851701881-q40um1nklqupv79mfjjrtk8c2euk8r7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
